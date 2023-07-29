@@ -32,6 +32,11 @@ pip install -r requirements.txt
 
 ```
 
+The project hierachy should be construct like this for direct running
+
+![Sample project hierachy](https://github.com/DangHoang2109/DL_DeepfaceImageDetection/assets/32613745/49b450b2-e5d4-4152-b3b0-3a977549ed64)
+
+
 ## Data
 The dataset can be downloaded in https://drive.google.com/drive/folders/1_q8RhK9PNQTyIp5fsaFkxVfsbngBafRT?usp=sharing
 
