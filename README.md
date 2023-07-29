@@ -18,7 +18,7 @@ Through this project, we aim to contribute to the ongoing efforts in combating t
   - [Installation](#installation)
 - [Data](#data)
 - [Results](#results)
-
+- [Contact](#contact)
 ## Getting Started
 
 ### Installation
@@ -40,7 +40,7 @@ The project hierachy should be construct like this for direct running
 ## Data
 The dataset can be downloaded in https://drive.google.com/drive/folders/1_q8RhK9PNQTyIp5fsaFkxVfsbngBafRT?usp=sharing
 
-## Result
+## Results
 
 ### InceptionV3
 
