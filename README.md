@@ -1,3 +1,5 @@
+[![DangHoang2109's GitHub stats](https://github-readme-stats.vercel.app/api?username=DangHoang2109)](https://github.com/DangHoang2109/github-readme-stats)
+
 # DeepfaceImageDetection - Machine Learning / Deep Learning Science Project
 
 ## Overview
